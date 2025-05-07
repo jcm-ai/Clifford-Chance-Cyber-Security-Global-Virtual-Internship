@@ -8,21 +8,12 @@ Learn how you, as a lawyer, can help businesses to navigate this challenge.
 
 ## There are three modules in the programme.
 
-    • Task 1 - Practical guidance on an ICO Dawn Raid.
-
-    Developing practical guidance for a client on how to respond in the event of an ICO Dawn Raid
-
-    • Task 2 - Assess the legal situation after a data leak and take the necessary steps.
-
-    Communicating on a personal data breach
-
-    • Task 3 - Respond to a data-related damages claim.
-
-    Advising on litigation strategy
-
+- **Task 1:** - Practical guidance on an ICO Dawn Raid. Developing practical guidance for a client on how to respond in the event of an ICO Dawn Raid
+- **Task 2:** - Assess the legal situation after a data leak and take the necessary steps. Communicating on a personal data breach
+- **Task 3:** - Respond to a data-related damages claim. Advising on litigation strategy
 
 # ♦ Task 1 - Practical guidance on an ICO Dawn Raid.
-    Developing practical guidance for a client on how to respond in the event of an ICO Dawn Raid
+_Developing practical guidance for a client on how to respond in the event of an ICO Dawn Raid_
 
 **Here is the background information on this Task 1**
 
