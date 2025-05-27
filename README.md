@@ -59,7 +59,7 @@ It may be useful to also prepare a written script first before recording. You ca
 
 # ♦ Task 2 - Assess the legal situation after a data leak and take the necessary steps.
 
-    Communicating on a personal data breach
+*Communicating on a personal data breach*
     
 **Here is the background information on this Task 2**
 
