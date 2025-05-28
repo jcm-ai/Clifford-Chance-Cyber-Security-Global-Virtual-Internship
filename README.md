@@ -85,7 +85,7 @@ For this task, please draft an email to the client.
 
 # ♦ Task 3 - Respond to a data-related damages claim.
 
-    Advising on litigation strategy
+*Advising on litigation strategy*
 
 **Here is the background information on this Task 3**
 
