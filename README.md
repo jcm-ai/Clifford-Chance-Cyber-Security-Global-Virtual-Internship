@@ -95,11 +95,11 @@ Pursuant to a colocation agreement made with Ludens Inc., Shikari undertook to s
 
 **Ludens' Data includes:**
 
-• "Commercial Know-How": information on Ludens' clients, e.g. client lists, documents outlining Ludens' marketing strategy, sales, turnover and financial data;
+- **"Commercial Know-How":** information on Ludens' clients, e.g. client lists, documents outlining Ludens' marketing strategy, sales, turnover and financial data;
 
-• "Technical Know-How": documents listing the patents protecting Ludens' diagnostic tools describing the technology on which Luden relies (projects and drawings, manufacturing and maintenance manuals, user manuals); and
+- **"Technical Know-How":** documents listing the patents protecting Ludens' diagnostic tools describing the technology on which Luden relies (projects and drawings, manufacturing and maintenance manuals, user manuals); and
 
-• "Health Data": data relating to certain patients who were diagnosed using Ludens' diagnostic tools. Ludens processes health data by anonymising and aggregating individual patient data and then selling the datasets of anonymous data to hospitals and researchers.
+- **"Health Data":** data relating to certain patients who were diagnosed using Ludens' diagnostic tools. Ludens processes health data by anonymising and aggregating individual patient data and then selling the datasets of anonymous data to hospitals and researchers.
 
 Shikari's data centre was recently the target of a cyber incident, and as a result certain Data of Ludens' was hacked. 
 
@@ -118,10 +118,13 @@ Please prepare a note of preliminary advice where you go through the various def
 
 Please briefly recap what the note is about and provide a very high-level summary of the main facts.
 
-• 1 - the occurrence of a data breach
-• 2 - the theft from the servers hosting Ludens' data
-• 3 - the kind of data that Shikari stored on behalf of Ludens
-• 4 - Ludens' claims
+1. the occurrence of a data breach
+
+2. the theft from the servers hosting Ludens' data
+
+3. the kind of data that Shikari stored on behalf of Ludens
+
+4. Ludens' claims
 
 **Executive summary:**
 
